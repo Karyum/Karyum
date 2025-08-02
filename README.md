@@ -1,8 +1,8 @@
-## 💫 About Me:
+### 💫 About Me:
 🔭 I’m currently working on [Feuerstein institute dynamic assessment](https://feuerstein-institute.org/)<br>🌱 I’m currently learning Godot! to learn how strategy games are made<br>⚡ I love food
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -20,7 +20,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=karyum&theme=dark&hide_border=false) &nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karyum&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
